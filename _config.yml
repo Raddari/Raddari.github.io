@@ -1,7 +1,5 @@
 # The Site Configuration
-plugins:
-  - jekyll-remote-theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 baseurl: ""
 url: raddari.github.io
 lang: en-US
