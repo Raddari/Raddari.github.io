@@ -1,6 +1,6 @@
 # The Site Configuration
 theme: jekyll-theme-chirpy
-baseurl: "/raddari.github.io"
+baseurl: ""
 url: raddari.github.io
 lang: en-US
 timezone: Australia/Adelaide
