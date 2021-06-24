@@ -1,9 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2"
-# gem "github-pages", "~> 215", group: :jekyll_plugins
+gem "github-pages", "~> 215", group: :jekyll_plugins
 
-gem "jekyll-theme-chirpy"
+gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   # gem "jekyll-feed", "~> 0.12"
