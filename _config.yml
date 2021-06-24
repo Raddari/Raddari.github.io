@@ -1,1 +1,9 @@
+# Site settings
+title: Harvey's Portfolio
+email: harveywyatt@hotmail.com
+description: >-
+  A site showing of my portfolio and blog entries!
+baseurl: raddari.github.io
+
+# Build settings
 theme: jekyll-theme-midnight
