@@ -5,3 +5,8 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
+
+p > img {
+  display: block;
+  margin: 0 auto;
+}
