@@ -5,6 +5,8 @@ author:
 description: >
   Dedicated to reverse engineering, emulator, and game projects.
 
+permalink: /blog/:categories/:title
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
